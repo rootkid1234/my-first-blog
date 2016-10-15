@@ -56,4 +56,26 @@ Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed
 Retrying.
 
 --2016-10-14 21:20:09--  (try:15)  http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
-Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... 
+Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed: 연결 시간 초과.
+Retrying.
+
+--2016-10-14 21:22:26--  (try:16)  http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
+Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed: 연결 시간 초과.
+Retrying.
+
+--2016-10-14 21:24:43--  (try:17)  http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
+Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed: 연결 시간 초과.
+Retrying.
+
+--2016-10-14 21:27:00--  (try:18)  http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
+Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed: 연결 시간 초과.
+Retrying.
+
+--2016-10-14 21:29:18--  (try:19)  http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
+Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed: 연결 시간 초과.
+Retrying.
+
+--2016-10-14 21:31:35--  (try:20)  http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
+Connecting to pkgs.repoforge.org (pkgs.repoforge.org)|78.46.17.228|:80... failed: 연결 시간 초과.
+Giving up.
+
